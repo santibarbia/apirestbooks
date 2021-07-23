@@ -1,0 +1,7 @@
+package com.tipre.books.backend.model.dao;
+
+import org.springframework.data.repository.CrudRepository;
+
+public interface ILibroDao extends CrudRepository<T, ID> {
+
+}

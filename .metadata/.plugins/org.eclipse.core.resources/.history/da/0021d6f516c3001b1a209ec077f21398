@@ -1,0 +1,5 @@
+package com.tipre.books.backend.auth;
+
+public class ServidorAutorizacion {
+
+}

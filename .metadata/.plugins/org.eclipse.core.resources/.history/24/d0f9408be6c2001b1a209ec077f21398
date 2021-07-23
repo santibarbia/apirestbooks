@@ -1,0 +1,5 @@
+package com.tipre.books.backend.response;
+
+public class LibroResponseRest extends ResponseRest {
+
+}
